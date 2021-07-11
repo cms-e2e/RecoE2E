@@ -4,6 +4,8 @@
 #include "DataFormats/Common/interface/AssociationVector.h"
 #include "DataFormats/EgammaCandidates/interface/Photon.h"
 #include "DataFormats/EgammaCandidates/interface/PhotonFwd.h"
+#include "DataFormats/TrackReco/interface/Track.h"
+#include "DataFormats/TrackReco/interface/TrackExtra.h"
 #include <vector>
 
 namespace e2e {
