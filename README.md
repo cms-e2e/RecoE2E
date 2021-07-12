@@ -30,5 +30,6 @@ For performing the deep learning inference, include the model graph protobuf fil
 > $ cmsRun RecoE2E/TopTagger/python/TopInference_cfg.py inputFiles=file:*[input EDM-format file location]* doTracksAtECALadjPt=False maxEvents=30 setChannelOrder="0,1,2,3,4,5,6,7"
 
   
+
 Authors:  
 Michael Andrews, Bjorn Burkle, Shravan Chaudhari, Davide Di Croce , Sergei Gleyzer, Ulrich Heintz, Meenakshi Narain, Manfred Paulini, Emanuele Usai. 
