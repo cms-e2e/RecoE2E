@@ -16,6 +16,7 @@ The **_Taggers_** package is included to facilitate more complex analysis to be 
   
 Setup the CMSSW environment:   
 > $ cmsrel CMSSW_10_6_X  
+> $ cd CMSSW_10_6_X/src  
 > $ cmsenv
 
 Clone the repository:  
